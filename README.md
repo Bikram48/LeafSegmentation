@@ -1,4 +1,4 @@
-### Leaf Detection and Quantification
+### Leaf Segmentation and Quantification
 
 This project focuses on leaf segmentation and counting using deep learning models. It employs **ResNet-UNet** for semantic segmentation (5 classes: background + 4 leaf types) and **ResNet-50** for leaf counting.
 
